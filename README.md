@@ -4,7 +4,9 @@ These are my first Python exercises.
 Mini Greeting App - asks for the user's name and age, and then prints a friendly response.
 Fast Thinking Part I, II & III - tests our agentic thinking abilities, represented as System 1 and System 2 in my programs.
 Yum App - helps to plan a user's meal with great interactive feedbacks, and goes ahead to produce a Menu for the user with a list of ingredients, if required.
-Through this project, I practiced using:
+Fit 'N' Fun - helps you plan various workout exercises for a number of weeks.
+Movie Box - suggests movie options for the weekend, and recommends Snack options to go with, if needed.
+Through these projects, I practiced using:
 - print()  
 - input()  
 - if/else statements
